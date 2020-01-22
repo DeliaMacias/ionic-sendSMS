@@ -15,12 +15,12 @@ export class Tab3Page {
     {
       name: 'Delia',
       lastname: 'Macias',
-      phone: '3111190502'
+      phone: '3221190122'
     },
     {
       name: 'Mamá',
       lastname: 'Macias',
-      phone: '3271064206'
+      phone: '3271024201'
     }
   ];
 
@@ -77,7 +77,7 @@ export class Tab3Page {
       }
     };
 
-    this.sms.send('3111190502', message)
+    this.sms.send('1234567890', message)
       .then(() => {
         console.log('sms worked');
       }).catch( (err) => {
