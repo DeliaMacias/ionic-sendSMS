@@ -1,9 +1,9 @@
-# Ionic v4 Tutorial: Photo Gallery app
+# Ionic v4 Tutorial: SendSmS & callNumber
 
-A tutorial app that walks the user through creating a Photo Gallery app. We begin with the Ionic "tabs" starter app, incrementally converting the About tab to a Photo Gallery experience.
+Using a Photo Gallery app repositories
 
 ## Structure
-The complete source code is contained within. Please follow along with the [complete guide here](https://ionicframework.com/docs/angular/your-first-app).
+Tab 3 content is about send sms and callnumber. Credits reserved
 
 ## How to Run Locally
 * Clone this repo.
